@@ -1,7 +1,7 @@
 # digit-recognition
-"Hello World" of neural networks, implementation of a NeuralNetwork from scratch to classify digits(0-9) using MNIST dataset. I Made a GUI to make it more interactive.
+"Hello World" of neural networks, implementation of a NeuralNetwork from scratch to classify digits(0-9) using the MNIST dataset. I also made a GUI to make it more interactive.
 
-digit recognizer - Hello World.ipynb loads the MNIST dataset, builds a neural network from scratch and saves weights-biases to various files so this NN can be reconstructed in the app.py
+digit recognizer - Hello World.ipynb loads the MNIST dataset, builds a NN from scratch and saves weights-biases to various files so this NN can be reconstructed in the app.py
 
 app.py reconstructs the NN, displays an interactive GUI.
 
